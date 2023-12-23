@@ -1,1 +1,9 @@
 It was the spring hope. it was the winter season of despair.
+
+1. git init
+2. git add .
+3. git commit -m ""
+4. git status
+5. git log
+6. git diff filename
+7. git checkou
