@@ -7,3 +7,4 @@ Git and github version control.
 5. check the commit history using git log
 
 it is the parallel story.
+and iam modifying it .
