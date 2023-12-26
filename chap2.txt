@@ -6,4 +6,3 @@ Git and github version control.
 4. can commit the files using git commit -m "message".
 5. check the commit history using git log
 
-it is the parallel story.
