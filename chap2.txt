@@ -5,3 +5,5 @@ Git and github version control.
 3. check the files in the git staging area usin git status
 4. can commit the files using git commit -m "message".
 5. check the commit history using git log
+
+it is the parallel story.

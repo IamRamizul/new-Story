@@ -7,3 +7,5 @@ It was the spring hope. it was the winter season of despair.
 5. git log
 6. git diff filename
 7. git checkout
+
+It is the parallel story.
